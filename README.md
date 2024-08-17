@@ -1,6 +1,6 @@
 # My boilerplate for Backend (for MERN apps) 
 
-I use this code structure in backend for alomost every MERN Fullstack projects of mine. You can clone it and use it to your projects too; save time !
+I use this code structure in backend for alomost every MERN Fullstack projects of mine. You can clone it and use it in your projects too; save time !
 
 ## Table of Contents
 - [Installation](#installation)
